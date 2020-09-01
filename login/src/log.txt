@@ -1,0 +1,3 @@
+amin admin 1
+amin agent 2
+amin client 3

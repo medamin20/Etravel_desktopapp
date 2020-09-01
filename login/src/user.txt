@@ -1,0 +1,3 @@
+dhafer admin 1
+dhafer agent 2
+dhafer client 3
